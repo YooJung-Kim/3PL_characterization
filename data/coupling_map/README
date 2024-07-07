@@ -1,5 +1,5 @@
 Coupling maps by moving the injection stage in x and y.
 The spectral traces are extracted by vertical sum of pixels.
 
-filename: specmap_<window size>_<stepsize>_<date>.fits
+filename: specmap_<window size in Zaber steps>_<Zaber stepsize>_<date>.fits
 data shape: (N^2, n_traces, n_spec) for N x N map
