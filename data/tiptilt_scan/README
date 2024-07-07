@@ -1,0 +1,5 @@
+Intensity response to tip-tilts measured by applying tip-tilt aberrations with the deformable mirror.
+([-0.4, 0.4] radians RMS (at a reference wavelength of 1.55 um), with steps of 0.1 radians RMS)
+
+filename: tip/tilt_iter<n_iter>.fits
+data shape: (n_steps, n_traces, n_spec) for n_steps = 11 ([-0.4 , -0.32, -0.24, -0.16, -0.08,  0.  ,  0.08,  0.16,  0.24,   0.32,  0.4 ])
